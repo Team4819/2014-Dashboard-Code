@@ -22,7 +22,7 @@
 			<Item Name="Build Simple Skeleton Data.vi" Type="VI" URL="../Build Simple Skeleton Data.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
-		<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
+		<Item Name="Dashboard Vision Processing.vi" Type="VI" URL="../Dashboard Vision Processing.vi"/>
 		<Item Name="Identify Blob.vi" Type="VI" URL="../Identify Blob.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
